@@ -52,4 +52,4 @@
 >*Meios de Contato*<br>
 
 ### Mapa do Site
-<img src="./assets/img/Mapa Do Site.svg" width="600px" height="400px">
+<img src="./assets/img/Mapa Do Site.svg" width="800px" height="400px">
